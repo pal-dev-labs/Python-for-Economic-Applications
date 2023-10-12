@@ -1,8 +1,8 @@
 # Python for Economic Application
 
-[Course of Coding for Economic Application] (https://economia.uniroma2.it/master-science/economics/corso/2021/)
+[Course of Coding for Economic Application](https://economia.uniroma2.it/master-science/economics/corso/2021/)
 
-[ Master Of Science in Economics ] (https://economia.uniroma2.it/master-science/economics)
+[Master Of Science in Economics ](https://economia.uniroma2.it/master-science/economics)
 
 [Università degli Studi di Roma "Tor Vergata" - via Cracovia 50 - Roma ](http://web.uniroma2.it/en)
 
