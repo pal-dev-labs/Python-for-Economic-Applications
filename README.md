@@ -1,14 +1,18 @@
 # Python for Economic Application
-[Course of Coding for Economic Application] (https://economia.uniroma2.it/master-science/economics/corso/2021/) - Prof. A. Parisi
-[Master Of Science in Economics] (https://economia.uniroma2.it/master-science/economics)
+
+[Course of Coding for Economic Application] (https://economia.uniroma2.it/master-science/economics/corso/2021/)
+
+[ Master Of Science in Economics ] (https://economia.uniroma2.it/master-science/economics)
+
 [Università degli Studi di Roma "Tor Vergata" - via Cracovia 50 - Roma ](http://web.uniroma2.it/en)
 
 Teacher: Prof. Giandomenico Palumbo
 
 Course starting date: 07 Nov 2023
+
 Course ending date: 22 Dec 2023
 
-Location: lab XXXX - Friday 14:30 to 16:30
+Location: lab XXXX - Friday from 14:30 to 16:30
 
 # Tools used
 You can use a personal laptop to follow the course.
@@ -20,11 +24,11 @@ To access Colab you need to have a **Google account** (those who don't have one 
 
 **REMEMBER** to bring with you to the computer lab **UID and PWD to access Google and GitHub**.
 
-# Course Description:
+# Course Description:
 
 This course will introduce students to the Python programming language, with a focus on its applications in economics. Students will learn the basics of Python programming, including data types, variables, functions, and control flow statements. They will also learn how to use Python to perform data analysis, visualization, and statistical modeling.
 
-# Course Objectives:
+# Course Objectives:
 Upon completion of this course, students will be able to:
 
 - Write and understand simple Python programs
