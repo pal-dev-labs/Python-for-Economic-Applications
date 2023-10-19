@@ -21,9 +21,9 @@ Ways of work (at your choice):
 
 -**LOCALLY** on your laptop: you have to install the **Anaconda Navigator** suite on your laptop (downloadable from the website https://anaconda.org/anaconda/anaconda-navigator). After the installation, launch the application and open Jupyter Notebook. Download the file TestNotebook.ipynb from this web site and load it in the notebook. Run the cells to check that everything is ok.
 
--**CLOUD**: the environment used is **Google Colab** which can be used with a browser (Chrome for example) from any PC, directly from the address https://colab.research.google.com/
+-**Google Colab**: with your laptop you can go directly on the **Google Colab** (https://colab.research.google.com/) that is an environment already configured with a Jupyter Notebook.
 
-To work with Google Colab you need a **Google account** and a **Github account**.
+To work with Google Colab you will need a **Google account** and a **Github account**.
 
 # Course Description:
 
