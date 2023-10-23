@@ -19,11 +19,19 @@ A laptop connected to internet
 
 Ways of work (at your choice):
 
--**LOCALLY** on your laptop: you have to install the **Anaconda Navigator** suite on your laptop (downloadable from the website https://anaconda.org/anaconda/anaconda-navigator). After the installation, launch the application and open Jupyter Notebook. Download the file TestNotebook.ipynb from this web site and load it in the notebook. Run the cells to check that everything is ok.
+-**LOCALLY** (all files will be in your laptop): 
+-- install the **Anaconda Navigator** suite on your laptop (downloadable from the website https://anaconda.org/anaconda/anaconda-navigator)
+-- install TensorFlow library https://www.tensorflow.org/install
 
--**Google Colab**: with your laptop you can go directly on the **Google Colab** (https://colab.research.google.com/) that is an environment already configured with a Jupyter Notebook.
+After the installation, launch the application and open Jupyter Notebook. Download the file TestNotebook.ipynb from this web site and load it in the notebook. Run the cells to check that everything is ok.
 
-To work with Google Colab you will need a **Google account** and a **Github account**.
+-**Google Colab**: (al files will be hosted in the google cloud but you can download locally the notebook):
+-- with your laptop go directly to **Google Colab** (https://colab.research.google.com/) that is an environment already configured with a Jupyter Notebook. You will need a **Google account** and a **Github account**.
+-- go to File-Open Notebook and select GitHub 
+-- in the github url type: pal-dev-labs/Python-for-Economic-Applications
+-- click on TestNotebook.ipynb
+-- click on the cells with code and run the cell (click on the righ arrow in the left of the cell)
+-- you should get a pie-chart and the message 
 
 # Course Description:
 
