@@ -8,11 +8,11 @@
 
 Teacher: Prof. Giandomenico Palumbo
 
-Course starting date: 07 Nov 2023
+Course starting date: Nov 2023
 
-Course ending date: 22 Dec 2023
+Course ending date:  Dec 2023
 
-Location: lab Tbd - Friday from 14:30 to 16:30
+Location: lab Tbd 
 
 # Requirements
 A laptop connected to internet
