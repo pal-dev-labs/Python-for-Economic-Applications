@@ -63,7 +63,7 @@ Students will be assessed on their understanding of Python programming concepts 
 # Prerequisites:
 Students should have a basic understanding of mathematics and statistics before taking this course. No prior programming experience is required.
    
-# Educational material and useful links
+# Suggested material and useful links
 The course covers multiple topics relating to different scientific disciplines such as Mathematics, Statistics, Data Science, Computer Science and therefore there is no single textbook that contains all the topics.
 Below we present a list of material that can be consulted for specific further information.
 
