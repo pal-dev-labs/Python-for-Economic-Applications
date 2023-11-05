@@ -23,7 +23,8 @@ Ways of work (at your choice):
 - Install the **Anaconda Navigator** suite on your laptop (downloadable from the website https://anaconda.org/anaconda/anaconda-navigator)
 - Install TensorFlow library https://www.tensorflow.org/install
 
-After the installation, launch the application and open Jupyter Notebook. Download the file TestNotebook.ipynb from this web site and load it in the notebook. Run the cells to check that everything is ok (you should plot a pie-chart and the message 2.13.0 (version of tensorflow))
+After the installation, launch the application and open Jupyter Notebook. Download the file TestNotebook.ipynb from this web site and load it in the notebook. Run the cells to check that everything is ok (you should plot a pie-chart and the message 2.13.0 (version of tensorflow)).
+If you click on CODE button above and select downolad ZIP, you can get a copy of this repository with all files, folders and subfolders.
 
 
 **GOOGLE COLAB**: (all files will be hosted in the google cloud but you will be able to download it locally):
